@@ -6,6 +6,8 @@
 
 This guide is intended to demonstrate how to perform the OpenShift installation using the IPI method on AWS GovCloud. In addition, the guide will walk through performing this installation on an existing disconnected network. In other words the network does not allow access to and from the internet.
 
+Please refer to the [Overview](README.md) for more information about the different types of ways to install OpenShift.
+
 ## YouTube Video
 
 A video that walks through this guide is available here: https://youtu.be/JcoTBcm3cIc
