@@ -6,7 +6,7 @@
 
 This guide is intended to demonstrate how to perform the OpenShift installation using the IPI method on Microsoft Azure Government. This guide assumes the following:
 *   The network where the cluster will be installed is disconnected (i.e. no access to and from public internet).
-*   VPCs already exist (please see the example configuration below).
+*   VNETs already exist (please see the example configuration below).
 *   A service principal account exists with roles Contributor and User Access Administrator. It is also possible to use lesser priviledged roles. We will be enhancing the guide soon to demonstrate this.
 *   Access to Azure DNS.
 
