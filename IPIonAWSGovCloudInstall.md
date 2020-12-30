@@ -7,14 +7,14 @@
 This guide is intended to demonstrate how to perform the OpenShift installation using the IPI method on AWS GovCloud. This guide assumes the following:
 *   The network where the cluster will be installed is disconnected (i.e. no access to and from public internet).
 *   VPCs already exist (please see the example configuration below).
-*   A IAM User exists with roles ...
+*   IAM users without administrative privileges are created (please see the example configuration below).
 *   Access to Route 53 DNS.
 
 Please refer to the [Overview](README.md) for more information about the different types of ways to install OpenShift.
 
 ## YouTube Video
 
-A video that walks through this guide is available here: https://youtu.be/JcoTBcm3cIc
+A video that walks through this guide is available here: TBD
 
 ## MAG Configuration Requirements
 
