@@ -440,7 +440,7 @@ The first time the install is run, it will prompt for the azure subscription id,
 
 
 ```
-#From Bastion
+#From Registry
 
 cd ~/4.6.3
 
